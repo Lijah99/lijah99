@@ -1,6 +1,6 @@
 # Hi there, I'm Elijah 👋 
 
-* I am a Software Engineer at [Garmin](https://www.garmin.com/en-US/)
+* I am a Software Engineer at [Garmin](https://github.com/garmin)
 * Check out my website [elijahflinders.com](https://elijahflinders.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/elijahflinders/)
 * Contributions to any of my open source repositories is accepted
 
