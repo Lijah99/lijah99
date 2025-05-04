@@ -2,7 +2,7 @@
 
 * I am a Software Engineer at [Garmin](https://github.com/garmin)
 * Check out my website [elijahflinders.com](https://elijahflinders.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/elijahflinders/)
-* Contributions to any of my open source repositories is accepted
+* Contributions to any of my open source repositories is welcome
 
 ---
 
